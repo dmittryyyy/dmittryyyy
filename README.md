@@ -22,7 +22,7 @@
 Верстка:
 - Лендинг "GoCorona" - <a href="https://github.com/dmittryyyy/GoCorona">Код</a>/<a href="https://dmittryyyy.github.io/GoCorona/">Демо</a>
 - Лендинг "Магазин автоковриков" - <a href="https://github.com/dmittryyyy/Car-Carpets">Код</a>/<a href="https://dmittryyyy.github.io/Car-Carpets/">Демо</a>
-- Лендинг "Webovio" - <a href="https://github.com/dmittryyyy/Car-Carpets">Код</a>/<a href="https://dmittryyyy.github.io/Car-Carpets/">Демо</a>
+- Лендинг "Webovio" - <a href="https://github.com/dmittryyyy/Webovio">Код</a>/<a href="https://dmittryyyy.github.io/Webovio/">Демо</a>
 
 
 Связаться со мной:
