@@ -16,8 +16,13 @@
 
 Проекты:
 
+- "Circeya" - <a href="https://github.com/dmittryyyy/CIRCEYA">Код</a>/<a href="https://dmittryyyy.github.io/CIRCEYA/">Демо</a>
+- "Ирвас-окна" - <a href="https://github.com/dmittryyyy/Irvas-windows">Код</a>/<a href="https://dmittryyyy.github.io/Irvas-windows">Демо</a>
 
 Верстка:
+- Лендинг "GoCorona" - <a href="https://github.com/dmittryyyy/GoCorona">Код</a>/<a href="https://dmittryyyy.github.io/GoCorona/">Демо</a>
+- Лендинг "Магазин автоковриков" - <a href="https://github.com/dmittryyyy/Car-Carpets">Код</a>/<a href="https://dmittryyyy.github.io/Car-Carpets/">Демо</a>
+- Лендинг "Webovio" - <a href="https://github.com/dmittryyyy/Car-Carpets">Код</a>/<a href="https://dmittryyyy.github.io/Car-Carpets/">Демо</a>
 
 
 Связаться со мной:
