@@ -17,6 +17,7 @@
 Проекты:
 
 - "Circeya" - <a href="https://github.com/dmittryyyy/CIRCEYA">Код</a>/<a href="https://dmittryyyy.github.io/CIRCEYA/">Демо</a>
+- "Юридическая помощь" - <a href="https://github.com/dmittryyyy/legal-assistance">Код</a>/<a href="https://dmittryyyy.github.io/legal-assistance/">Демо</a>
 - "Ирвас-окна" - <a href="https://github.com/dmittryyyy/Irvas-windows">Код</a>/<a href="https://dmittryyyy.github.io/Irvas-windows">Демо</a>
 
 Верстка:
