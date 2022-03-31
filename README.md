@@ -9,6 +9,7 @@
 ![BootStrap](https://img.shields.io/badge/Bootstrap-531A50?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-C34D0A?style=for-the-badge&logo=GIT&logoColor=white)
 ![GULP](https://img.shields.io/badge/GULP-C41E3A?style=for-the-badge&logo=GULP&logoColor=white)
+![WEBPACK](https://img.shields.io/badge/WEBPACK-black?style=for-the-badge&logo=webpack&logoColor=aqua)
 ![FIGMA](https://img.shields.io/badge/FIGMA-1B1116?style=for-the-badge&logo=FIGMA&logoColor=orange)
 
 
@@ -16,6 +17,7 @@
 
 Проекты:
 
+- "Food" - <a href="https://github.com/dmittryyyy/Food">Код</a>/<a href="https://dmittryyyy.github.io/Food/">Демо</a>
 - "Circeya" - <a href="https://github.com/dmittryyyy/CIRCEYA">Код</a>/<a href="https://dmittryyyy.github.io/CIRCEYA/">Демо</a>
 - "Юридическая помощь" - <a href="https://github.com/dmittryyyy/legal-assistance">Код</a>/<a href="https://dmittryyyy.github.io/legal-assistance/">Демо</a>
 - "Ирвас-окна" - <a href="https://github.com/dmittryyyy/Irvas-windows">Код</a>/<a href="https://dmittryyyy.github.io/Irvas-windows">Демо</a>
@@ -30,5 +32,5 @@
 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=TELEGRAM&logoColor=blue)](https://t.me/dmittryyyyy)
 [![INSTAGRAMM](https://img.shields.io/badge/INSTAGRAM-800080?style=for-the-badge&logo=INSTAGRAM&logoColor=white)](https://www.instagram.com/dmittryyyy/)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/dmitriy-bolobchenko-92301a221/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-steelblue?style=for-the-badge&logo=LINKEDIN&logoColor=white)](https://www.linkedin.com/in/dmitriy-bolobchenko-92301a221/)
 
