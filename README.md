@@ -13,10 +13,12 @@
 ![FIGMA](https://img.shields.io/badge/FIGMA-1B1116?style=for-the-badge&logo=FIGMA&logoColor=orange)
 
 
-
-
 Проекты:
 
+React:
+- "Sneakers Shop" - <a href="https://github.com/dmittryyyy/Sneakers-shop">Код</a>/<a href="https://dmittryyyy.github.io/Sneakers-shop/">Демо</a>
+
+JavaScript:
 - "Food" - <a href="https://github.com/dmittryyyy/Food">Код</a>/<a href="https://dmittryyyy.github.io/Food/">Демо</a>
 - "Circeya" - <a href="https://github.com/dmittryyyy/CIRCEYA">Код</a>/<a href="https://dmittryyyy.github.io/CIRCEYA/">Демо</a>
 - "Юридическая помощь" - <a href="https://github.com/dmittryyyy/legal-assistance">Код</a>/<a href="https://dmittryyyy.github.io/legal-assistance/">Демо</a>
